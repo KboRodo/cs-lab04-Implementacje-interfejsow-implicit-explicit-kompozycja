@@ -158,3 +158,4 @@ Zbadaj działanie swojego rozwiązania w programie konsolowym.
 Uwzględniając korekty zrealizowane w zadaniu 4, w nowym projekcie zaimplementuj układ z Zadania 3 (kserokopiarka składa się z _luźno połączonych_ drukarki i skanera).
 
 Zbadaj działanie swojego rozwiązania w programie konsolowym.
+123
